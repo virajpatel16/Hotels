@@ -79,8 +79,7 @@ void getter(){
 }
 
 main(){
-	for(i=0;i<5;i++){
-		cout<<""
+	
 	}
 	
  	hotel h;
